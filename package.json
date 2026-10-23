@@ -1,0 +1,22 @@
+{
+  "name": "teacher-sulemani",
+  "version": "0.1.0",
+  "description": "Teacher Sulemani WhatsApp training coach",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "chat": "node scripts/simulate.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@googleapis/drive": "^26.0.2",
+    "@googleapis/sheets": "^18.1.0",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1",
+    "google-auth-library": "^11.1.0"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  }
+}

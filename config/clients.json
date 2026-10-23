@@ -1,0 +1,17 @@
+[
+  {
+    "id": "debt-collection",
+    "enabled": true,
+    "name": "Certified Debt Collector Training",
+    "tutorName": "Coach Sulemani",
+    "programmeDescription": "the Certified Debt Collector professional curriculum",
+    "coachingStyle": "Professional, clear, and encouraging. Focus on ethical recovery and practical collector scenarios.",
+    "passMark": 70,
+    "logQuestionText": false,
+    "storage": "drive",
+    "drive": {
+      "knowledgeFolderId": "1Sv91wJ55nfaIFZOtGOBSO4QsZD0AV80M",
+      "recordsSheetId": "1KoHu3_-nY66221MYLOHWDyAyl5-aXiAWLYt_7FnhGDw"
+    }
+  }
+]
